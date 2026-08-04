@@ -1,11 +1,13 @@
-<div align="center">
+<h2>OriginOS WEB</h2>
+OOSP - OriginWEB open source project
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+&nbsp;&nbsp;&nbsp;
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+<img
+  src="https://raw.githubusercontent.com/quandz24-ui/OriginWEB/refs/heads/main/originData/OriginOS6LogoSquare.png" 
+  alt="Trải nghiệm OriginOS WEB" 
+  width="100" 
+  style="border-radius: 10px;" 
+/>
+       
+<a href="https://quandz24-ui.github.io/OriginWEB/">https://quandz24-ui.github.io/OriginWEB/</a>
